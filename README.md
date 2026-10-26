@@ -61,94 +61,94 @@ The following table benchmarks top commercial e-learning authoring solutions, so
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore open-source authoring frameworks, standalone course editors, and pedagogical content engines. **Sorted descending by GitHub Star Count** (each star badge links directly to that repository's stargazers page).
+Explore open-source authoring frameworks, standalone course editors, and pedagogical content engines. **Sorted descending by GitHub Stars_Count** (each Stars_Badge links directly to that repository's stargazers page).
 
 ### 1. 🌟 [Open edX Platform (Studio)](https://github.com/openedx/openedx-platform)
-[![GitHub stars](https://img.shields.io/github/stars/openedx/openedx-platform?style=social&color=white)](https://github.com/openedx/openedx-platform/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/openedx/openedx-platform?style=social&color=white)](https://github.com/openedx/openedx-platform/stargazers)
 - **Description**: The comprehensive web-based platform powering global MOOCs and university courses. Includes **Open edX Studio**, a visual course-authoring environment for structuring learning sequences, rich video transcripts, grading policies, and interactive XBlocks.
 - **Tech Stack**: Python, Django, React, MySQL, MongoDB.
 - **License**: AGPL-3.0.
 
 ### 2. 🌟 [Oppia](https://github.com/oppia/oppia)
-[![GitHub stars](https://img.shields.io/github/stars/oppia/oppia?style=social&color=white)](https://github.com/oppia/oppia/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/oppia/oppia?style=social&color=white)](https://github.com/oppia/oppia/stargazers)
 - **Description**: An open-source interactive learning and lesson-authoring platform designed to simulate one-on-one tutoring. Creators build non-linear explorations that provide personalized feedback to learners based on specific misconceptions.
 - **Tech Stack**: Python, Angular, TypeScript, Google Cloud Platform.
 - **License**: Apache-2.0.
 
 ### 3. 🌟 [Kolibri](https://github.com/learningequality/kolibri)
-[![GitHub stars](https://img.shields.io/github/stars/learningequality/kolibri?style=social&color=white)](https://github.com/learningequality/kolibri/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/learningequality/kolibri?style=social&color=white)](https://github.com/learningequality/kolibri/stargazers)
 - **Description**: An adaptable, offline-first educational platform designed for resource-constrained environments. Features integrated content-curation and authoring tools, exercise builders, and diagnostic assessment capabilities.
 - **Tech Stack**: Python, Django, Vue.js, SQLite.
 - **License**: MIT.
 
 ### 4. 🌟 [Chamilo LMS (Course Authoring Engine)](https://github.com/chamilo/chamilo-lms)
-[![GitHub stars](https://img.shields.io/github/stars/chamilo/chamilo-lms?style=social&color=white)](https://github.com/chamilo/chamilo-lms/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/chamilo/chamilo-lms?style=social&color=white)](https://github.com/chamilo/chamilo-lms/stargazers)
 - **Description**: Full-featured open-source e-learning platform with a robust WYSIWYG authoring tool for creating multimedia learning paths, interactive quizzes, exercises, and SCORM 1.2/2004 imports/exports.
 - **Tech Stack**: PHP, Symfony, JavaScript, MySQL.
 - **License**: GPL-3.0.
 
 ### 5. 🌟 [Adapt Framework](https://github.com/adaptlearning/adapt_framework)
-[![GitHub stars](https://img.shields.io/github/stars/adaptlearning/adapt_framework?style=social&color=white)](https://github.com/adaptlearning/adapt_framework/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/adaptlearning/adapt_framework?style=social&color=white)](https://github.com/adaptlearning/adapt_framework/stargazers)
 - **Description**: Industry-standard open-source framework for building accessible, fully responsive HTML5 e-learning courses that look great across smartphones, tablets, and desktops. Supports extensive plugin ecosystems and SCORM/xAPI packaging.
 - **Tech Stack**: JavaScript, Node.js, Grunt, Handlebars, Less.
 - **License**: GPL-3.0.
 
 ### 6. 🌟 [Adapt Authoring Tool](https://github.com/adaptlearning/adapt_authoring)
-[![GitHub stars](https://img.shields.io/github/stars/adaptlearning/adapt_authoring?style=social&color=white)](https://github.com/adaptlearning/adapt_authoring/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/adaptlearning/adapt_authoring?style=social&color=white)](https://github.com/adaptlearning/adapt_authoring/stargazers)
 - **Description**: Official web-based graphical user interface for the Adapt Framework. Enables instructional designers to collaboratively assemble multi-device e-learning modules, configure themes, and publish SCORM packages without hand-coding.
 - **Tech Stack**: Node.js, Express, MongoDB, Backbone.js / React.
 - **License**: GPL-3.0.
 
 ### 7. 🌟 [ILIAS Authoring Environment](https://github.com/ILIAS-eLearning/ILIAS)
-[![GitHub stars](https://img.shields.io/github/stars/ILIAS-eLearning/ILIAS?style=social&color=white)](https://github.com/ILIAS-eLearning/ILIAS/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ILIAS-eLearning/ILIAS?style=social&color=white)](https://github.com/ILIAS-eLearning/ILIAS/stargazers)
 - **Description**: Comprehensive open-source learning management and authoring environment certified for SCORM 1.2 and 2004. Includes dedicated learning module authoring, test & assessment builders, and interactive study exercises.
 - **Tech Stack**: PHP, JavaScript, MariaDB / MySQL.
 - **License**: GPL-3.0.
 
 ### 8. 🌟 [Pipwerks SCORM API Wrapper](https://github.com/pipwerks/scorm-api-wrapper)
-[![GitHub stars](https://img.shields.io/github/stars/pipwerks/scorm-api-wrapper?style=social&color=white)](https://github.com/pipwerks/scorm-api-wrapper/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/pipwerks/scorm-api-wrapper?style=social&color=white)](https://github.com/pipwerks/scorm-api-wrapper/stargazers)
 - **Description**: The de-facto JavaScript integration library used by e-learning developers to connect custom HTML5 courses and authoring frameworks to SCORM 1.2 and SCORM 2004 Run-Time Environments (RTE).
 - **Tech Stack**: JavaScript.
 - **License**: MIT.
 
 ### 9. 🌟 [H5P Standalone](https://github.com/tunapanda/h5p-standalone)
-[![GitHub stars](https://img.shields.io/github/stars/tunapanda/h5p-standalone?style=social&color=white)](https://github.com/tunapanda/h5p-standalone/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/tunapanda/h5p-standalone?style=social&color=white)](https://github.com/tunapanda/h5p-standalone/stargazers)
 - **Description**: A lightweight client-side player and runner that enables displaying and packaging interactive H5P content packages (quizzes, interactive videos, presentations) on any static web page or custom LMS without needing an active H5P server.
 - **Tech Stack**: JavaScript, HTML5.
 - **License**: MIT.
 
 ### 10. 🌟 [LiaScript](https://github.com/LiaScript/LiaScript)
-[![GitHub stars](https://img.shields.io/github/stars/LiaScript/LiaScript?style=social&color=white)](https://github.com/LiaScript/LiaScript/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/LiaScript/LiaScript?style=social&color=white)](https://github.com/LiaScript/LiaScript/stargazers)
 - **Description**: An extended Markdown-based DSL for interactive educational content creation. Allows authors to write interactive online courses using simple plain text, supporting automated text-to-speech, embedded quizzes, code execution sandboxes, and ASCII-art diagram animations.
 - **Tech Stack**: Elm, TypeScript, JavaScript.
 - **License**: MIT.
 
 ### 11. 🌟 [Lumi](https://github.com/Lumieducation/Lumi)
-[![GitHub stars](https://img.shields.io/github/stars/Lumieducation/Lumi?style=social&color=white)](https://github.com/Lumieducation/Lumi/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Lumieducation/Lumi?style=social&color=white)](https://github.com/Lumieducation/Lumi/stargazers)
 - **Description**: Cross-platform desktop application for creating, editing, viewing, and exporting H5P interactive content offline. Exports to standalone HTML files or SCORM packages ready for LMS deployment without requiring internet access.
 - **Tech Stack**: Electron, TypeScript, Node.js.
 - **License**: GPL-3.0.
 
 ### 12. 🌟 [eXeLearning](https://github.com/exelearning/exelearning)
-[![GitHub stars](https://img.shields.io/github/stars/exelearning/exelearning?style=social&color=white)](https://github.com/exelearning/exelearning/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/exelearning/exelearning?style=social&color=white)](https://github.com/exelearning/exelearning/stargazers)
 - **Description**: Mature open-source desktop and server authoring tool backed by the Spanish Ministry of Education. Features customizable iDevices for interactive exercises, Moodle/IMS/SCORM packaging, real-time collaboration via Yjs, and offline desktop installers.
 - **Tech Stack**: Python, JavaScript, CSS, HTML5.
 - **License**: GPL-2.0.
 
 ### 13. 🌟 [Xerte Online Toolkits](https://github.com/thexerteproject/xerteonlinetoolkits)
-[![GitHub stars](https://img.shields.io/github/stars/thexerteproject/xerteonlinetoolkits?style=social&color=white)](https://github.com/thexerteproject/xerteonlinetoolkits/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/thexerteproject/xerteonlinetoolkits?style=social&color=white)](https://github.com/thexerteproject/xerteonlinetoolkits/stargazers)
 - **Description**: Server-based suite of authoring tools developed by the University of Nottingham for creating rich, accessible, interactive learning materials. Offers deep accessibility compliance, media integration, and SCORM/xAPI publishing.
 - **Tech Stack**: PHP, JavaScript, XML, MySQL.
 - **License**: Apache-2.0.
 
 ### 14. 🌟 [CourseCode](https://github.com/course-code-framework/coursecode)
-[![GitHub stars](https://img.shields.io/github/stars/course-code-framework/coursecode?style=social&color=white)](https://github.com/course-code-framework/coursecode/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/course-code-framework/coursecode?style=social&color=white)](https://github.com/course-code-framework/coursecode/stargazers)
 - **Description**: Local-first, file-based course authoring framework and CLI with AI / Model Context Protocol (MCP) integrations. Exports to SCORM 1.2/2004, cmi5, and LTI with live hot-reloading preview and WCAG 2.1 AA compliant templates.
 - **Tech Stack**: TypeScript, Node.js, CLI.
 - **License**: MIT.
 
 ### 15. 🌟 [Open eLearning Core](https://github.com/open-elearning/core)
-[![GitHub stars](https://img.shields.io/github/stars/open-elearning/core?style=social&color=white)](https://github.com/open-elearning/core/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/open-elearning/core?style=social&color=white)](https://github.com/open-elearning/core/stargazers)
 - **Description**: Multi-platform authoring tool and editor for creating multimedia modules, animations, and educational games. Focuses on democratization of educational content creation without proprietary licensing fees.
 - **Tech Stack**: JavaScript, Electron, HTML5.
 - **License**: GPL-3.0.
