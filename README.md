@@ -61,7 +61,7 @@ The following table benchmarks top commercial e-learning authoring solutions, so
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore open-source authoring frameworks, standalone course editors, and pedagogical content engines. **Sorted descending by GitHub Stars_Count** (each Stars_Badge links directly to that repository's stargazers page).
+Explore open-source authoring frameworks, standalone course editors, and pedagogical content engines. **Sorted descending by GitHub_Stars_Count** (each Stars_Badge links directly to that repository's stargazers page).
 
 ### 1. 🌟 [Open edX Platform (Studio)](https://github.com/openedx/openedx-platform)
 [![GitHub_Stars](https://img.shields.io/github/stars/openedx/openedx-platform?style=social&color=white)](https://github.com/openedx/openedx-platform/stargazers)
